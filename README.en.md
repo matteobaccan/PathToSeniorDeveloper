@@ -66,7 +66,7 @@ The book is distributed under the license[Creative Commons Attribution-NonCommer
 
 ## Thanks
 
-Special thanks to all those who contributed directly or indirectly to the creation of this book. Every word, every page, is the result of collective work and a shared passion.
+Un ringraziamento speciale a tutti coloro che hanno contribuito direttamente o indirettamente alla realizzazione di questo libro. Ogni parola, ogni pagina, è frutto di un lavoro collettivo e di una passione condivisa.
 
 ## Contacts
 
@@ -81,6 +81,10 @@ Special thanks to all those who contributed directly or indirectly to the creati
 **[Download the book in English for free](https://github.com/matteobaccan/PathToSeniorDeveloper/raw/refs/heads/main/Path%20to%20senior%20developer-en.pdf)**
 
 **[Download the book in Spanish for free](https://github.com/matteobaccan/PathToSeniorDeveloper/raw/refs/heads/main/Path%20to%20senior%20developer-es.pdf)**
+
+## Listen to a NotebookLM of the book
+
+**[Listen in Italian](https://github.com/matteobaccan/PathToSeniorDeveloper/raw/refs/heads/main/book/bonus/The%20Evolving%20World%20of%20Software%20Development-it.wav)**
 
 * * *
 
