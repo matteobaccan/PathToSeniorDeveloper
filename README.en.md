@@ -1,6 +1,6 @@
 # Path to Senior Developer
 
-[![Genera PDF](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/generatepdf.yml)
+[![Genera PDF](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/generatepdf.yml)[![Translate README](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/translatereadme.yml/badge.svg)](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/translatereadme.yml)
 
 Welcome to the official repository of my book**"Path to Senior Developer"**. Here you will find the complete text of the book, organized by chapters and paragraphs, together with the PDF version, freely available for consultation and download.
 
