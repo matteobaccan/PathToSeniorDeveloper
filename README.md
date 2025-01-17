@@ -84,6 +84,10 @@ __[Scarica gratuitamente il libro in inglese](https://github.com/matteobaccan/Pa
 
 __[Scarica gratuitamente il libro in spagnolo](https://github.com/matteobaccan/PathToSeniorDeveloper/raw/refs/heads/main/Path%20to%20senior%20developer-es.pdf)__
 
+## Ascolta un NotebookLM del libro
+
+__[Ascolta in italiano](https://github.com/matteobaccan/PathToSeniorDeveloper/raw/refs/heads/main/book/bonus/The%20Evolving%20World%20of%20Software%20Development-it.wav)__
+
 ---
 
 **Nota**: Questo repository è mantenuto da me e dalla comunità. Se hai domande o suggerimenti, non esitare a contattarmi o aprire una issue su GitHub.
