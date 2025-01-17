@@ -1,6 +1,6 @@
 # Camino al desarrollador senior
 
-[![Genera PDF](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/generatepdf.yml)
+[![Genera PDF](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/generatepdf.yml)[![Translate README](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/translatereadme.yml/badge.svg)](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/translatereadme.yml)
 
 Bienvenido al repositorio oficial de mi libro.**"Camino hacia el desarrollador senior"**. Aquí encontrarás el texto completo del libro, organizado por capítulos y párrafos, junto con la versión PDF, disponible gratuitamente para consulta y descarga.
 
