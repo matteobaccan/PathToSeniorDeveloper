@@ -74,6 +74,14 @@ Special thanks to all those who contributed directly or indirectly to the creati
 -   **Website**:<https://www.baccan.it>
 -   **GitHub**:<https://github.com/matteobaccan>
 
+## Download
+
+**[Download the book in Italian for free](https://github.com/matteobaccan/PathToSeniorDeveloper/raw/refs/heads/main/Path%20to%20senior%20developer-it.pdf)**
+
+**[Download the book in English for free](https://github.com/matteobaccan/PathToSeniorDeveloper/raw/refs/heads/main/Path%20to%20senior%20developer-en.pdf)**
+
+**[Download the book in Spanish for free](https://github.com/matteobaccan/PathToSeniorDeveloper/raw/refs/heads/main/Path%20to%20senior%20developer-es.pdf)**
+
 * * *
 
 **Use**: This repository is maintained by me and the community. If you have any questions or suggestions, don't hesitate to contact me or open an issue on GitHub.
