@@ -2,9 +2,9 @@
 
 [![Genera PDF](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/generatepdf.yml)[![Translate README](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/translatereadme.yml/badge.svg)](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/translatereadme.yml)
 
-Bienvenido al repositorio oficial de mi libro.**"Camino hacia el desarrollador senior"**. Aquí encontrarás el texto completo del libro, organizado por capítulos y párrafos, junto con la versión PDF, disponible gratuitamente para consulta y descarga.
+Benvenuti nel repository ufficiale del mio libro **"Camino hacia el desarrollador senior"**. Aquí encontrarás el texto completo del libro, organizado por capítulos y párrafos, junto con la versión PDF, disponible gratuitamente para consulta y descarga.
 
-## Descripción del libro
+## Descrizione del libro
 
 **"Camino hacia el desarrollador senior"**es una colección de artículos y reflexiones basadas en mis muchos años de experiencia en el mundo de la programación. El libro está dirigido a programadores senior y profesionales que deseen mejorar sus habilidades técnicas y metodológicas, abordando temas como el crecimiento profesional, las mejores prácticas, los desafíos del mundo del desarrollo de software y mucho más.
 
@@ -12,7 +12,7 @@ Cada capítulo representa una etapa en un viaje de transformación profesional, 
 
 ## Estructura del repositorio
 
-El repositorio está organizado de la siguiente manera:
+Il repository è organizzato nel seguente modo:
 
 ```text
 ├───.github
@@ -42,7 +42,7 @@ El repositorio está organizado de la siguiente manera:
 -   **`book/capitoloXX`**: Cada carpeta representa un capítulo del libro, con los archivos de texto relacionados.
 -   **`book/cover`**: Contiene imágenes de la portada del libro.
 -   **`book/fonts`**: Incluye las fuentes utilizadas para formatear el libro.
--   **`book/paragrafi`**: Contiene párrafos separados para una gestión de contenido más modular.
+-   **`book/paragrafi`**: Contiene i paragrafi separati per una gestione più modulare del contenuto.
 
 ## Cómo utilizar este repositorio
 
@@ -73,6 +73,14 @@ Un agradecimiento especial a todos aquellos que contribuyeron directa o indirect
 -   **Autor**: Matteo Baccan
 -   **Sitio web**:<https://www.baccan.it>
 -   **GitHub**:<https://github.com/matteobaccan>
+
+## Download
+
+**[Descarga el libro en italiano gratis](https://github.com/matteobaccan/PathToSeniorDeveloper/raw/refs/heads/main/Path%20to%20senior%20developer-it.pdf)**
+
+**[Descarga el libro en inglés gratis](https://github.com/matteobaccan/PathToSeniorDeveloper/raw/refs/heads/main/Path%20to%20senior%20developer-en.pdf)**
+
+**[Descarga el libro en español gratis](https://github.com/matteobaccan/PathToSeniorDeveloper/raw/refs/heads/main/Path%20to%20senior%20developer-es.pdf)**
 
 * * *
 
