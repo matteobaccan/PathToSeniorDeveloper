@@ -40,7 +40,7 @@ class MyDocTemplate(SimpleDocTemplate):
 def convert_markdown_to_pdf( lang = 'it' ):
     try:
         # File di output
-        output_file = '..\Path to senior developer-' +lang +'.pdf'
+        output_file = '../Path to senior developer-' +lang +'.pdf'
         print(f'Inizio la creazione di: {output_file}')
 
         # Registra i font personalizzati
