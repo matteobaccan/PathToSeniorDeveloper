@@ -2,9 +2,9 @@
 
 [![Genera PDF](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/generatepdf.yml)[![Translate README](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/translatereadme.yml/badge.svg)](https://github.com/matteobaccan/PathToSeniorDeveloper/actions/workflows/translatereadme.yml)
 
-Benvenuti nel repository ufficiale del mio libro **"Camino hacia el desarrollador senior"**. Aquí encontrarás el texto completo del libro, organizado por capítulos y párrafos, junto con la versión PDF, disponible gratuitamente para consulta y descarga.
+Bienvenido al repositorio oficial de mi libro.**"Camino hacia el desarrollador senior"**. Aquí encontrarás el texto completo del libro, organizado por capítulos y párrafos, junto con la versión PDF, disponible gratuitamente para consulta y descarga.
 
-## Descrizione del libro
+## Descripción del libro
 
 **"Camino hacia el desarrollador senior"**es una colección de artículos y reflexiones basadas en mis muchos años de experiencia en el mundo de la programación. El libro está dirigido a programadores senior y profesionales que deseen mejorar sus habilidades técnicas y metodológicas, abordando temas como el crecimiento profesional, las mejores prácticas, los desafíos del mundo del desarrollo de software y mucho más.
 
@@ -42,7 +42,7 @@ Il repository è organizzato nel seguente modo:
 -   **`book/capitoloXX`**: Cada carpeta representa un capítulo del libro, con los archivos de texto relacionados.
 -   **`book/cover`**: Contiene imágenes de la portada del libro.
 -   **`book/fonts`**: Incluye las fuentes utilizadas para formatear el libro.
--   **`book/paragrafi`**: Contiene i paragrafi separati per una gestione più modulare del contenuto.
+-   **`book/paragrafi`**: Contiene párrafos separados para una gestión de contenido más modular.
 
 ## Cómo utilizar este repositorio
 
@@ -74,13 +74,17 @@ Un agradecimiento especial a todos aquellos que contribuyeron directa o indirect
 -   **Sitio web**:<https://www.baccan.it>
 -   **GitHub**:<https://github.com/matteobaccan>
 
-## Download
+## Descargar
 
 **[Descarga el libro en italiano gratis](https://github.com/matteobaccan/PathToSeniorDeveloper/raw/refs/heads/main/Path%20to%20senior%20developer-it.pdf)**
 
 **[Descarga el libro en inglés gratis](https://github.com/matteobaccan/PathToSeniorDeveloper/raw/refs/heads/main/Path%20to%20senior%20developer-en.pdf)**
 
 **[Descarga el libro en español gratis](https://github.com/matteobaccan/PathToSeniorDeveloper/raw/refs/heads/main/Path%20to%20senior%20developer-es.pdf)**
+
+## Ascolta un NotebookLM del libro
+
+**[Escuchar en italiano](https://github.com/matteobaccan/PathToSeniorDeveloper/raw/refs/heads/main/book/bonus/The%20Evolving%20World%20of%20Software%20Development-it.wav)**
 
 * * *
 
