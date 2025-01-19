@@ -5,6 +5,9 @@
 
 Benvenuti nel repository ufficiale del mio libro **"Path to Senior Developer"**. Qui troverete il testo completo del libro, organizzato per capitoli e paragrafi, insieme alla versione PDF, liberamente disponibili per la consultazione e il download.
 
+Al momento il libro è in lavorazione, sono arrivato a coprire circa il __70%__ del contenuto che ho in mente per la prima versione.
+Il mio obiettivo è completarlo entro __Aprile 2025__, ma ho deciso di rilasciare già adesso le prime versioni, in modo da poterlo migliorare grazie all'aiuto di tutti i lettori.
+
 ## Descrizione del libro
 
 **"Path to Senior Developer"** è una raccolta di articoli e riflessioni basati sulla mia esperienza pluriennale nel mondo della programmazione. Il libro si rivolge a programmatori senior e professionisti che desiderano migliorare le proprie competenze tecniche e metodologiche, affrontando temi come la crescita professionale, le best practice, le sfide del mondo dello sviluppo software e molto altro.
@@ -61,6 +64,13 @@ Se desideri contribuire al progetto, ad esempio segnalando errori, migliorando l
 3. **Commit** delle tue modifiche (`git commit -m 'Aggiunto nuovo capitolo'`).
 4. **Push** del branch (`git push origin feature/nuova-funzionalità`).
 5. **Apri una Pull Request** per discutere le tue modifiche.
+
+## Action
+
+Ogni modifica del `README.md` viene monitorata da un'action in modo da produrre in automatico la traduzione in inglese e spagnolo.
+Allo stesso modo ogni modifica ad una parte del libro innesca un'action in grado di ricreare la versione PDF dello stesso.
+
+Queste action permettono quindi di automatizzare traduzioni ed aggiunte al libro e sono fondamentali per velocizzare tutto il processo di diffusione dei contenuti.
 
 ## Licenza
 
