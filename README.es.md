@@ -4,6 +4,9 @@
 
 Bienvenido al repositorio oficial de mi libro.**"Camino hacia el desarrollador senior"**. Aquí encontrarás el texto completo del libro, organizado por capítulos y párrafos, junto con la versión PDF, disponible gratuitamente para consulta y descarga.
 
+El libro está actualmente en progreso, he llegado a cubrir sobre el**70%**del contenido que tengo en mente para la primera versión.
+Mi objetivo es completarlo**abril 2025**, pero he decidido lanzar las primeras versiones ahora, para poder mejorarlo con la ayuda de todos los lectores.
+
 ## Descripción del libro
 
 **"Camino hacia el desarrollador senior"**es una colección de artículos y reflexiones basadas en mis muchos años de experiencia en el mundo de la programación. El libro está dirigido a programadores senior y profesionales que deseen mejorar sus habilidades técnicas y metodológicas, abordando temas como el crecimiento profesional, las mejores prácticas, los desafíos del mundo del desarrollo de software y mucho más.
@@ -12,7 +15,7 @@ Cada capítulo representa una etapa en un viaje de transformación profesional, 
 
 ## Estructura del repositorio
 
-Il repository è organizzato nel seguente modo:
+El repositorio está organizado de la siguiente manera:
 
 ```text
 ├───.github
@@ -54,11 +57,18 @@ Il repository è organizzato nel seguente modo:
 
 Si desea contribuir al proyecto, como informar errores, mejorar el formato o agregar contenido nuevo, siga estos pasos:
 
-1.  **Tenedor**del repositorio.
+1.  **hacer un tenedor**del repositorio.
 2.  **Crea un branch**para sus cambios (`git checkout -b feature/nuova-funzionalità`).
 3.  **Comprometerse**de tus cambios (`git commit -m 'Aggiunto nuovo capitolo'`).
 4.  **Empujar**del branch (`git push origin feature/nuova-funzionalità`).
 5.  **Abrir una solicitud de extracción**para discutir sus cambios.
+
+## Acción
+
+Cualquier modificación del`README.md`es monitoreado por una acción para producir automáticamente la traducción al inglés y al español.
+Asimismo, cada cambio en una parte del libro desencadena una acción capaz de recrear la versión PDF del mismo.
+
+Por tanto, estas acciones permiten automatizar las traducciones y ampliaciones del libro y son fundamentales para acelerar todo el proceso de difusión de contenidos.
 
 ## Licencia
 
@@ -78,7 +88,7 @@ Un agradecimiento especial a todos aquellos que contribuyeron directa o indirect
 
 **[Descarga el libro en italiano gratis](https://github.com/matteobaccan/PathToSeniorDeveloper/raw/refs/heads/main/Path%20to%20senior%20developer-it.pdf)**
 
-**[Descarga el libro en inglés gratis](https://github.com/matteobaccan/PathToSeniorDeveloper/raw/refs/heads/main/Path%20to%20senior%20developer-en.pdf)**
+**[Descarga el libro en inglés gratis.](https://github.com/matteobaccan/PathToSeniorDeveloper/raw/refs/heads/main/Path%20to%20senior%20developer-en.pdf)**
 
 **[Descarga el libro en español gratis](https://github.com/matteobaccan/PathToSeniorDeveloper/raw/refs/heads/main/Path%20to%20senior%20developer-es.pdf)**
 
