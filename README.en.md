@@ -4,6 +4,9 @@
 
 Welcome to the official repository of my book**"Path to Senior Developer"**. Here you will find the complete text of the book, organized by chapters and paragraphs, together with the PDF version, freely available for consultation and download.
 
+The book is currently in progress, I've gotten to cover about the**70%**of the content I have in mind for the first version.
+My goal is to complete it by**April 2025**, but I have decided to release the first versions now, so that I can improve it with the help of all the readers.
+
 ## Description of the book
 
 **"Path to Senior Developer"**is a collection of articles and reflections based on my many years of experience in the world of programming. The book is aimed at senior programmers and professionals who wish to improve their technical and methodological skills, addressing topics such as professional growth, best practices, the challenges of the world of software development and much more.
@@ -54,11 +57,18 @@ The repository is organized as follows:
 
 If you want to contribute to the project, such as reporting errors, improving formatting, or adding new content, follow these steps:
 
-1.  **Fork**del repository.
+1.  **Do a fork**del repository.
 2.  **Create a branch**for your changes (`git checkout -b feature/nuova-funzionalità`).
 3.  **Commit**of your changes (`git commit -m 'Aggiunto nuovo capitolo'`).
 4.  **Push**del branch (`git push origin feature/nuova-funzionalità`).
 5.  **Open a Pull Request**to discuss your changes.
+
+## Action
+
+Any modification of the`README.md`is monitored by an action in order to automatically produce the translation into English and Spanish.
+Likewise, every change to a part of the book triggers an action capable of recreating the PDF version of the same.
+
+These actions therefore allow you to automate translations and additions to the book and are essential for speeding up the entire content dissemination process.
 
 ## License
 
@@ -66,7 +76,7 @@ The book is distributed under the license[Creative Commons Attribution-NonCommer
 
 ## Thanks
 
-Un ringraziamento speciale a tutti coloro che hanno contribuito direttamente o indirettamente alla realizzazione di questo libro. Ogni parola, ogni pagina, è frutto di un lavoro collettivo e di una passione condivisa.
+Special thanks to all those who contributed directly or indirectly to the creation of this book. Every word, every page, is the result of collective work and a shared passion.
 
 ## Contacts
 
