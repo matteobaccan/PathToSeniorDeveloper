@@ -28,6 +28,8 @@ Para quienes desarrollan software desde hace más de 30 años, el nombre Visual 
 
 Por eso, cuando se trata de elegir un framework o una tecnología para un proyecto, es importante considerar no solo sus características técnicas, sino también su sostenibilidad a largo plazo.
 
+![Frameworks](06-EsplorareNuoviFramework-articolo-1-leonardo-ai.jpg)
+
 ## El horizonte temporal: una dimensión crucial
 
 Cada vez que evalúo un proyecto, trato de anticipar su ciclo de vida, o al menos lo que debería ser, basándome en la experiencia y en la información a mi disposición. La bola de cristal no existe y el futuro no es predecible, pero hay señales que permiten entender si un proyecto será de corta, media o larga duración.

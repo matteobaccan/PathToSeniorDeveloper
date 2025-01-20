@@ -28,6 +28,8 @@ For those who have been developing software for over 30 years, the name Visual O
 
 That's why, when it comes to choosing a framework or technology for a project, it's important to consider not only its technical features but also its long-term sustainability.
 
+![Frameworks](06-EsplorareNuoviFramework-articolo-1-leonardo-ai.jpg)
+
 ## The Time Horizon: A Crucial Dimension
 
 Whenever I evaluate a project, I try to anticipate its lifecycle, or at least what it should be, based on my experience and the information at my disposal. The crystal ball doesn't exist, and the future is unpredictable, but there are signs that indicate whether a project will be short, medium, or long-term.

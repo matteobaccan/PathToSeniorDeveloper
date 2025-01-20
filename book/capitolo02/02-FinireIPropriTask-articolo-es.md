@@ -62,6 +62,8 @@ En las reuniones periódicas, en las reuniones de pie, es responsabilidad de los
 
 Sin embargo, esto no significa que este aspecto surja de forma espontánea. Por eso es necesario que la gerencia promueva activamente la colaboración, identificando estas situaciones y alentando a las personas a trabajar de manera colaborativa.
 
+![las reuniones periódicas](02-FinireIPropriTask-articolo-2-leonardo-ai.jpg)
+
 ## ¿Qué estrategias podemos implementar para mitigar este problema?
 
 Existen varias formas de evitar que este enfoque comprometa la economía del proyecto.

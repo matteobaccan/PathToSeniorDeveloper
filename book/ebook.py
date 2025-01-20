@@ -2,7 +2,7 @@ import os
 import argparse
 from reportlab.lib.pagesizes import letter
 from reportlab.lib import colors
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak, Image, Frame
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak, Image, Frame, Table, TableStyle, HRFlowable
 from reportlab.platypus.doctemplate import PageTemplate, BaseDocTemplate
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import inch, cm
@@ -79,12 +79,12 @@ def convert_markdown_to_pdf( lang = 'it' ):
             ),
             'toc_entry' : ParagraphStyle(name='TOCEntry'    , fontName='Roboto'         , fontSize=14, spaceBefore=6,   spaceAfter=6    , leading=14                    ),
             'code'      : ParagraphStyle(
-                name='Code'        , 
-                fontName='SourceCodePro'  , 
-                fontSize=12, 
-                spaceBefore=10,  
-                spaceAfter=10   , 
-                leading=14    , 
+                name='Code'        ,
+                fontName='SourceCodePro'  ,
+                fontSize=12,
+                spaceBefore=10,
+                spaceAfter=10   ,
+                leading=14    ,
                 # leftIndent=12,
                 textColor=colors.black,
                 backColor=colors.Color(0.93, 0.93, 0.93),  # Grigio estremamente tenue
@@ -487,16 +487,16 @@ def add_footer(canvas, doc, custom_data):
 
 def add_draft_watermark(canvas, doc):
     canvas.saveState()
-    
+
     # Imposta il colore del testo in grigio chiaro (trasparente)
     canvas.setFillColor(colors.Color(0.9, 0.9, 0.9, alpha=0.3))  # Grigio chiaro con trasparenza
-    
+
     # Imposta il font e la dimensione del testo
     canvas.setFont("Helvetica-Bold", 60)
-    
+
     # Ruota il testo di 45 gradi
     canvas.rotate(45)
-    
+
     # Posizioni multiple per il testo "DRAFT"
     positions = [
         (doc.width / 2 + 100, doc.height / 2 - 200),  # Posizione centrale
@@ -505,11 +505,11 @@ def add_draft_watermark(canvas, doc):
         (doc.width / 2 - 500, doc.height / 2 + 400),  # Spostato in alto a destra
         (doc.width / 2 + 300, doc.height / 2 + 300),  # Altra posizione
     ]
-    
+
     # Disegna il testo "DRAFT" in tutte le posizioni
     for x, y in positions:
         canvas.drawCentredString(x, y, "DRAFT DRAFT DRAFT")
-    
+
     canvas.restoreState()
 
 def add_page(elements):

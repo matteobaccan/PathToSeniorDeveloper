@@ -62,6 +62,8 @@ Nelle riunioni periodiche, negli stand-up, deve essere compito dei membri del te
 
 Non è però detto che questo aspetto emerga in modo spontaneo. Per questo è necessario che il management promuova attivamente la collaborazione, cogliendo queste situazioni e spronando le persone a lavorare in modo collaborativo.
 
+![Le riunioni sono momenti di allineamento](02-FinireIPropriTask-articolo-2-leonardo-ai.jpg)
+
 ## Quali strategie possiamo mettere in atto per mitigare questo problema?
 
 Esistono vari modi per evitare che questo modo possa compromettere l'economia del progetto.

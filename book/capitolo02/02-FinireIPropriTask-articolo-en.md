@@ -62,6 +62,8 @@ In regular meetings, stand-ups, it is the responsibility of team members to info
 
 However, this aspect may not emerge spontaneously. Therefore, it is necessary for management to actively promote collaboration, identify these situations, and encourage people to work collaboratively.
 
+![regular meetings](02-FinireIPropriTask-articolo-2-leonardo-ai.jpg)
+
 ## What strategies can we implement to mitigate this problem?
 
 There are various ways to prevent this approach from compromising the project's economy.

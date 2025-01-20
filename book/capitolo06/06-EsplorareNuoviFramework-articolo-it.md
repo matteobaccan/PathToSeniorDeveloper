@@ -28,6 +28,8 @@ Per chi sviluppa software da oltre 30 anni, il nome Visual Objects farà suonare
 
 Ecco perché, quando si tratta di scegliere un framework o una tecnologia per un progetto, è importante considerare non solo le sue caratteristiche tecniche, ma anche la sua sostenibilità a lungo termine.
 
+![Sostenibilità a lungo termine](06-EsplorareNuoviFramework-articolo-1-leonardo-ai.jpg)
+
 ## L'orizzonte temporale: una dimensione cruciale
 
 Ogni volta che valuto un progetto, cerco di anticiparne il ciclo di vita, o almeno quello che dovrebbe essere, basandomi sull'esperienza e sulle informazioni a mia disposizione. La sfera di cristallo non esiste e il futuro non è prevedibile, ma ci sono segnali che fanno capire se un progetto sarà di breve, media o lunga durata.
