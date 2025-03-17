@@ -127,7 +127,7 @@ def convert_markdown_to_pdf( lang = 'it' ):
 #            ('' +lang +'/01-fondamenta della professionalità.md', ''),
             ('capitolo01/01-ProgrammatoriA40Anni-articolo-' +lang +'.md', 'capitolo01/01-ProgrammatoriA40Anni-articolo-1-leonardo-ia.jpg'),
             ('capitolo02/02-FinireIPropriTask-articolo-' +lang +'.md', 'capitolo02/02-FinireIPropriTask-articolo-1-leonardo-ai.jpg'),
-#            ('capitolo03/12-AmmettereDiNonSapere-articolo-' +lang +'.md', 'capitolo03/.jpg'),
+            ('capitolo03/12-AmmettereDiNonSapere-articolo-' +lang +'.md', 'capitolo03/12-AmmettereDiNonSapere-articolo-3-leonardo-ai.jpg'),
 #            ('capitolo04/57-Comunicazione Efficace in Team Tecnici.md', 'capitolo04/.jpg'),
 
             # Eccellenza Tecnica
