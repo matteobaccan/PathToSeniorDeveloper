@@ -54,7 +54,14 @@ def convert_markdown_to_pdf( lang = 'it' ):
 
         # Stili personalizzati per i paragrafi
         custom_styles = {
-            'header1'   : ParagraphStyle(name='Header1'     , fontName='Roboto-Bold'    , fontSize=16,                  spaceAfter=16   , leading=24                    ),
+            'header1'   : ParagraphStyle(
+                name='Header1',
+                fontName='Roboto-Bold',
+                fontSize=16,
+                spaceAfter=16,
+                leading=24,
+                alignment=TA_CENTER        # Allineamento centrato
+            ),
             'header2'   : ParagraphStyle(name='Header2'     , fontName='Roboto-Bold'    , fontSize=14,                  spaceAfter=8    , leading=16                    ),
             'header3'   : ParagraphStyle(name='Header3'     , fontName='Roboto-Bold'    , fontSize=12,                  spaceAfter=8    , leading=14                    ),
             'header4'   : ParagraphStyle(name='Header4'     , fontName='Roboto-Bold'    , fontSize=12,                  spaceAfter=8    , leading=12                    ),
@@ -124,14 +131,14 @@ def convert_markdown_to_pdf( lang = 'it' ):
             ('paragrafi/00-ringraziamenti-' +lang +'.md', ''),
             ('paragrafi/00-introduzione-' +lang +'.md', ''),
             # Fondamenta della Professionalità
-#            ('' +lang +'/01-fondamenta della professionalità.md', ''),
+#            ('paragrafi/01-fondamenta-della-professionalità-' +lang +'.md', ''),
             ('capitolo01/01-ProgrammatoriA40Anni-articolo-' +lang +'.md', 'capitolo01/01-ProgrammatoriA40Anni-articolo-1-leonardo-ia.jpg'),
             ('capitolo02/02-FinireIPropriTask-articolo-' +lang +'.md', 'capitolo02/02-FinireIPropriTask-articolo-1-leonardo-ai.jpg'),
             ('capitolo03/12-AmmettereDiNonSapere-articolo-' +lang +'.md', 'capitolo03/12-AmmettereDiNonSapere-articolo-3-leonardo-ai.jpg'),
 #            ('capitolo04/57-Comunicazione Efficace in Team Tecnici.md', 'capitolo04/.jpg'),
 
             # Eccellenza Tecnica
-            #('' +lang +'/02-eccellenzatecnica.md', ''),
+            ('paragrafi/02-eccellenzatecnica-' +lang +'.md', ''),
             ('capitolo05/04-CondizioneNelCodice-articolo-' +lang +'.md', 'capitolo05/04-CondizioneNelCodice-articolo-3-leonardo-ai.jpg'),
             ('capitolo06/06-EsplorareNuoviFramework-articolo-' +lang +'.md', 'capitolo06/06-EsplorareNuoviFramework-articolo-4-leonardo-ai.jpg'),
             ('capitolo07/03-IlMitodelFullStackDeveloper-articolo-' +lang +'.md', 'capitolo07/03-DALL·E 2024-04-15 15.23.18 - A wide aspect image of a mythical version of a fullstack developer as Medusa. This scene blends ancient and modern elements_ Medusa, with a crown of v.webp'),

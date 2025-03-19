@@ -1,4 +1,4 @@
-# I programmatori sono i nuovi mercenari: l'evoluzione del lavoro nel settore IT
+# I programmatori o mercenari? L'evoluzione del lavoro nel settore IT
 
 Un tempo, costruire un prodotto con un team di programmatori era sinonimo di stabilità a lungo termine. Le variazioni nel personale erano rare, limitate a eventi come pensionamenti, trasferimenti personali, burnout e, occasionalmente, offerte di lavoro irresistibili. Ma il vento del cambiamento ha soffiato forte: la diffusione di Internet e la recente pandemia hanno accelerato un processo che sembrava inevitabile: l'avvento del lavoro remoto.
 
