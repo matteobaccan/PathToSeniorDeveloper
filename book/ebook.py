@@ -130,6 +130,7 @@ def convert_markdown_to_pdf( lang = 'it' ):
             ('paragrafi/00-prefazione-' +lang +'.md', ''),
             ('paragrafi/00-ringraziamenti-' +lang +'.md', ''),
             ('paragrafi/00-introduzione-' +lang +'.md', ''),
+
             # Fondamenta della Professionalità
 #            ('paragrafi/01-fondamenta-della-professionalità-' +lang +'.md', ''),
             ('capitolo01/01-ProgrammatoriA40Anni-articolo-' +lang +'.md', 'capitolo01/01-ProgrammatoriA40Anni-articolo-1-leonardo-ia.jpg'),
@@ -155,6 +156,7 @@ def convert_markdown_to_pdf( lang = 'it' ):
 #            ('' +lang +'/04-dimensioni personali e sistemiche.md', ''),
 #            ('capitolo13/12-Gestione-del-Burnout-e-Salute-Mentale.md', 'capitolo13/.jpg'),
 #            ('capitolo14/58-Etica e Responsabilità nella Programmazione.md', 'capitolo14/.jpg'),
+
             ('paragrafi/00-biografia-' +lang +'.md', '')
         ]
 
