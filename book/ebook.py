@@ -154,6 +154,7 @@ def convert_markdown_to_pdf( lang = 'it' ):
 
             # Dimensioni Personali e Sistemiche
 #            ('' +lang +'/04-dimensioni personali e sistemiche.md', ''),
+            ('capitolo13/13-ProgrammatoreAnelloDebole-' +lang +'.md', 'capitolo13/13-ProgrammatoreAnelloDebole-2-chatgpt.png'),
 #            ('capitolo13/12-Gestione-del-Burnout-e-Salute-Mentale.md', 'capitolo13/.jpg'),
 #            ('capitolo14/58-Etica e Responsabilità nella Programmazione.md', 'capitolo14/.jpg'),
 
