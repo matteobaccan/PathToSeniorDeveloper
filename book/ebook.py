@@ -133,6 +133,7 @@ def convert_markdown_to_pdf( lang = 'it' ):
 
             # Fondamenta della Professionalità
 #            ('paragrafi/01-fondamenta-della-professionalità-' +lang +'.md', ''),
+            ('capitolo00/14-DiventareProgrammatoriOggi-articolo-' +lang +'.md', 'capitolo00/14-DiventareProgrammatoriOggi-articolo-1-leonardo-ai.png'),
             ('capitolo01/01-ProgrammatoriA40Anni-articolo-' +lang +'.md', 'capitolo01/01-ProgrammatoriA40Anni-articolo-1-leonardo-ia.jpg'),
             ('capitolo02/02-FinireIPropriTask-articolo-' +lang +'.md', 'capitolo02/02-FinireIPropriTask-articolo-1-leonardo-ai.jpg'),
             ('capitolo03/12-AmmettereDiNonSapere-articolo-' +lang +'.md', 'capitolo03/12-AmmettereDiNonSapere-articolo-3-leonardo-ai.jpg'),
