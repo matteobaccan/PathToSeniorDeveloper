@@ -147,7 +147,7 @@ def convert_markdown_to_pdf( lang = 'it' ):
             ('capitolo08/11-CodeReview-articolo-' +lang +'.md', 'capitolo08/11-CodeReview-articolo-1-leonardo-ai.jpg'),
 
             # Dimensione Professionale
-#            ('' +lang +'/03-dimensione professionale.md', ''),
+            ('paragrafi/03-dimensioneprofessionale-' +lang +'.md', ''),
             ('capitolo09/05-CelodurismoDeiProgrammatori-articolo-' +lang +'.md', 'capitolo09/05-CelodurismoDeiProgrammatori-articolo-1-leonardo-ai.jpg'),
             ('capitolo10/07-ProgrammatoriMercenari-articolo-' +lang +'.md', 'capitolo10/07-ProgrammatoriMercenari-articolo-2-leonardo-ai.jpg'),
             ('capitolo11/09-LaRALMotivaAlCambiamento-articolo-' +lang +'.md', 'capitolo11/09-LaRALMotivaAlCambiamento-articolo-2-leonardo-ai.jpg'),
