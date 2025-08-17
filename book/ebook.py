@@ -158,6 +158,7 @@ def convert_markdown_to_pdf( lang = 'it' ):
             ('capitolo13/13-ProgrammatoreAnelloDebole-' +lang +'.md', 'capitolo13/13-ProgrammatoreAnelloDebole-2-chatgpt.png'),
 #            ('capitolo13/12-Gestione-del-Burnout-e-Salute-Mentale.md', 'capitolo13/.jpg'),
 #            ('capitolo14/58-Etica e Responsabilità nella Programmazione.md', 'capitolo14/.jpg'),
+            ('capitolo15/15-IlCimiteroDeiGeni-articolo-' +lang +'.md', 'capitolo15/15-IlCimiteroDeiGeni-articolo-1-leonardo-ai.jpg'),
 
             ('paragrafi/00-biografia-' +lang +'.md', '')
         ]
