@@ -188,7 +188,7 @@ def convert_markdown_to_pdf( lang = 'it' ):
         toc.levelStyles = [h1, h2, h3, h4]
 
         # Copertina
-        cover_image = Image(os.path.join('cover/Path to senior developer - alternative 3.png'), width=9*inch, height=11*inch)
+        cover_image = Image(os.path.join('cover/Path to senior developer - alternative 4.png'), width=9*inch, height=11*inch)
         elements.append(cover_image)
         add_page(elements)
 
