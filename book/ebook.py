@@ -133,32 +133,32 @@ def convert_markdown_to_pdf( lang = 'it' ):
 
             # Fondamenta della Professionalità
 #            ('paragrafi/01-fondamenta-della-professionalità-' +lang +'.md', ''),
-            ('capitolo00/14-DiventareProgrammatoriOggi-articolo-' +lang +'.md', 'capitolo00/14-DiventareProgrammatoriOggi-articolo-1-leonardo-ai.png'),
-            ('capitolo01/01-ProgrammatoriA40Anni-articolo-' +lang +'.md', 'capitolo01/01-ProgrammatoriA40Anni-articolo-1-leonardo-ia.jpg'),
-            ('capitolo02/02-FinireIPropriTask-articolo-' +lang +'.md', 'capitolo02/02-FinireIPropriTask-articolo-1-leonardo-ai.jpg'),
-            ('capitolo03/12-AmmettereDiNonSapere-articolo-' +lang +'.md', 'capitolo03/12-AmmettereDiNonSapere-articolo-3-leonardo-ai.jpg'),
+            ('capitolo00/14-DiventareProgrammatoriOggi-articolo-' +lang +'.md', 'capitolo00/14-DiventareProgrammatoriOggi-articolo.png'),
+            ('capitolo01/01-ProgrammatoriA40Anni-articolo-' +lang +'.md', 'capitolo01/01-ProgrammatoriA40Anni-articolo.jpg'),
+            ('capitolo02/02-FinireIPropriTask-articolo-' +lang +'.md', 'capitolo02/02-FinireIPropriTask-articolo.jpg'),
+            ('capitolo03/12-AmmettereDiNonSapere-articolo-' +lang +'.md', 'capitolo03/12-AmmettereDiNonSapere-articolo.jpg'),
 #            ('capitolo04/57-Comunicazione Efficace in Team Tecnici.md', 'capitolo04/.jpg'),
 
             # Eccellenza Tecnica
             ('paragrafi/02-eccellenzatecnica-' +lang +'.md', ''),
-            ('capitolo05/04-CondizioneNelCodice-articolo-' +lang +'.md', 'capitolo05/04-CondizioneNelCodice-articolo-3-leonardo-ai.jpg'),
-            ('capitolo06/06-EsplorareNuoviFramework-articolo-' +lang +'.md', 'capitolo06/06-EsplorareNuoviFramework-articolo-4-leonardo-ai.jpg'),
-            ('capitolo07/03-IlMitodelFullStackDeveloper-articolo-' +lang +'.md', 'capitolo07/03-DALL·E 2024-04-15 15.23.18 - A wide aspect image of a mythical version of a fullstack developer as Medusa. This scene blends ancient and modern elements_ Medusa, with a crown of v.webp'),
-            ('capitolo08/11-CodeReview-articolo-' +lang +'.md', 'capitolo08/11-CodeReview-articolo-1-leonardo-ai.jpg'),
+            ('capitolo05/04-CondizioneNelCodice-articolo-' +lang +'.md', 'capitolo05/04-CondizioneNelCodice-articolo.jpg'),
+            ('capitolo06/06-EsplorareNuoviFramework-articolo-' +lang +'.md', 'capitolo06/06-EsplorareNuoviFramework.jpg'),
+            ('capitolo07/03-IlMitodelFullStackDeveloper-articolo-' +lang +'.md', 'capitolo07/03-IlMitodelFullStackDeveloper-articolo.png'),
+            ('capitolo08/11-CodeReview-articolo-' +lang +'.md', 'capitolo08/11-CodeReview-articolo.jpg'),
 
             # Dimensione Professionale
             ('paragrafi/03-dimensioneprofessionale-' +lang +'.md', ''),
-            ('capitolo09/05-CelodurismoDeiProgrammatori-articolo-' +lang +'.md', 'capitolo09/05-CelodurismoDeiProgrammatori-articolo-1-leonardo-ai.jpg'),
-            ('capitolo10/07-ProgrammatoriMercenari-articolo-' +lang +'.md', 'capitolo10/07-ProgrammatoriMercenari-articolo-2-leonardo-ai.jpg'),
-            ('capitolo11/09-LaRALMotivaAlCambiamento-articolo-' +lang +'.md', 'capitolo11/09-LaRALMotivaAlCambiamento-articolo-2-leonardo-ai.jpg'),
-            ('capitolo12/10-ChiPerdeUnProgrammatorePerdeUnTesoro-articolo-' +lang +'.md', 'capitolo12/10-ChiPerdeUnProgrammatorePerdeUnTesoro-articolo-2-dall-e.png'),
+            ('capitolo09/05-CelodurismoDeiProgrammatori-articolo-' +lang +'.md', 'capitolo09/05-CelodurismoDeiProgrammatori-articolo.jpg'),
+            ('capitolo10/07-ProgrammatoriMercenari-articolo-' +lang +'.md', 'capitolo10/07-ProgrammatoriMercenari-articolo.jpg'),
+            ('capitolo11/09-LaRALMotivaAlCambiamento-articolo-' +lang +'.md', 'capitolo11/09-LaRALMotivaAlCambiamento-articolo.jpg'),
+            ('capitolo12/10-ChiPerdeUnProgrammatorePerdeUnTesoro-articolo-' +lang +'.md', 'capitolo12/10-ChiPerdeUnProgrammatorePerdeUnTesoro.png'),
 
             # Dimensioni Personali e Sistemiche
 #            ('' +lang +'/04-dimensioni personali e sistemiche.md', ''),
-            ('capitolo13/13-ProgrammatoreAnelloDebole-' +lang +'.md', 'capitolo13/13-ProgrammatoreAnelloDebole-2-chatgpt.png'),
+            ('capitolo13/13-ProgrammatoreAnelloDebole-' +lang +'.md', 'capitolo13/13-ProgrammatoreAnelloDebole.png'),
 #            ('capitolo13/12-Gestione-del-Burnout-e-Salute-Mentale.md', 'capitolo13/.jpg'),
 #            ('capitolo14/58-Etica e Responsabilità nella Programmazione.md', 'capitolo14/.jpg'),
-            ('capitolo15/15-IlCimiteroDeiGeni-articolo-' +lang +'.md', 'capitolo15/15-IlCimiteroDeiGeni-articolo-1-leonardo-ai.jpg'),
+            ('capitolo15/15-IlCimiteroDeiGeni-articolo-' +lang +'.md', 'capitolo15/15-IlCimiteroDeiGeni-articolo.png'),
 
             ('paragrafi/00-biografia-' +lang +'.md', '')
         ]
