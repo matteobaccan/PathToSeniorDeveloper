@@ -134,24 +134,24 @@ def convert_markdown_to_pdf( lang = 'it' ):
             # Fondamenta della Professionalità
 #            ('paragrafi/01-fondamenta-della-professionalità-' +lang +'.md', ''),
             ('capitolo00/14-DiventareProgrammatoriOggi-articolo-' +lang +'.md', 'capitolo00/14-DiventareProgrammatoriOggi-articolo.png'),
-            ('capitolo01/01-ProgrammatoriA40Anni-articolo-' +lang +'.md', 'capitolo01/01-ProgrammatoriA40Anni-articolo.jpg'),
-            ('capitolo02/02-FinireIPropriTask-articolo-' +lang +'.md', 'capitolo02/02-FinireIPropriTask-articolo.jpg'),
-            ('capitolo03/12-AmmettereDiNonSapere-articolo-' +lang +'.md', 'capitolo03/12-AmmettereDiNonSapere-articolo.jpg'),
-#            ('capitolo04/57-Comunicazione Efficace in Team Tecnici.md', 'capitolo04/.jpg'),
+            ('capitolo01/01-ProgrammatoriA40Anni-articolo-' +lang +'.md', 'capitolo01/01-ProgrammatoriA40Anni-articolo.png'),
+            ('capitolo02/02-FinireIPropriTask-articolo-' +lang +'.md', 'capitolo02/02-FinireIPropriTask-articolo.png'),
+            ('capitolo03/12-AmmettereDiNonSapere-articolo-' +lang +'.md', 'capitolo03/12-AmmettereDiNonSapere-articolo.png'),
+#            ('capitolo04/57-Comunicazione Efficace in Team Tecnici.md', 'capitolo04/.png'),
 
             # Eccellenza Tecnica
             ('paragrafi/02-eccellenzatecnica-' +lang +'.md', ''),
-            ('capitolo05/04-CondizioneNelCodice-articolo-' +lang +'.md', 'capitolo05/04-CondizioneNelCodice-articolo.jpg'),
-            ('capitolo06/06-EsplorareNuoviFramework-articolo-' +lang +'.md', 'capitolo06/06-EsplorareNuoviFramework.jpg'),
+            ('capitolo05/04-CondizioneNelCodice-articolo-' +lang +'.md', 'capitolo05/04-CondizioneNelCodice-articolo.png'),
+            ('capitolo06/06-EsplorareNuoviFramework-articolo-' +lang +'.md', 'capitolo06/06-EsplorareNuoviFramework-articolo.png'),
             ('capitolo07/03-IlMitodelFullStackDeveloper-articolo-' +lang +'.md', 'capitolo07/03-IlMitodelFullStackDeveloper-articolo.png'),
-            ('capitolo08/11-CodeReview-articolo-' +lang +'.md', 'capitolo08/11-CodeReview-articolo.jpg'),
+            ('capitolo08/11-CodeReview-articolo-' +lang +'.md', 'capitolo08/11-CodeReview-articolo.png'),
 
             # Dimensione Professionale
             ('paragrafi/03-dimensioneprofessionale-' +lang +'.md', ''),
-            ('capitolo09/05-CelodurismoDeiProgrammatori-articolo-' +lang +'.md', 'capitolo09/05-CelodurismoDeiProgrammatori-articolo.jpg'),
-            ('capitolo10/07-ProgrammatoriMercenari-articolo-' +lang +'.md', 'capitolo10/07-ProgrammatoriMercenari-articolo.jpg'),
-            ('capitolo11/09-LaRALMotivaAlCambiamento-articolo-' +lang +'.md', 'capitolo11/09-LaRALMotivaAlCambiamento-articolo.jpg'),
-            ('capitolo12/10-ChiPerdeUnProgrammatorePerdeUnTesoro-articolo-' +lang +'.md', 'capitolo12/10-ChiPerdeUnProgrammatorePerdeUnTesoro.png'),
+            ('capitolo09/05-CelodurismoDeiProgrammatori-articolo-' +lang +'.md', 'capitolo09/05-CelodurismoDeiProgrammatori-articolo.png'),
+            ('capitolo10/07-ProgrammatoriMercenari-articolo-' +lang +'.md', 'capitolo10/07-ProgrammatoriMercenari-articolo.png'),
+            ('capitolo11/09-LaRALMotivaAlCambiamento-articolo-' +lang +'.md', 'capitolo11/09-LaRALMotivaAlCambiamento-articolo.png'),
+            ('capitolo12/10-ChiPerdeUnProgrammatorePerdeUnTesoro-articolo-' +lang +'.md', 'capitolo12/10-ChiPerdeUnProgrammatorePerdeUnTesoro-articolo.png'),
 
             # Dimensioni Personali e Sistemiche
 #            ('' +lang +'/04-dimensioni personali e sistemiche.md', ''),
