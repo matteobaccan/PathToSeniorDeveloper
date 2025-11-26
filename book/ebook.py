@@ -133,32 +133,32 @@ def convert_markdown_to_pdf( lang = 'it' ):
 
             # Fondamenta della Professionalità
 #            ('paragrafi/01-fondamenta-della-professionalità-' +lang +'.md', ''),
-            ('capitolo00/14-DiventareProgrammatoriOggi-articolo-' +lang +'.md', 'capitolo00/14-DiventareProgrammatoriOggi-articolo.png'),
-            ('capitolo01/01-ProgrammatoriA40Anni-articolo-' +lang +'.md', 'capitolo01/01-ProgrammatoriA40Anni-articolo.png'),
-            ('capitolo02/02-FinireIPropriTask-articolo-' +lang +'.md', 'capitolo02/02-FinireIPropriTask-articolo.png'),
-            ('capitolo03/12-AmmettereDiNonSapere-articolo-' +lang +'.md', 'capitolo03/12-AmmettereDiNonSapere-articolo.png'),
+            ('capitolo00/14-DiventareProgrammatoriOggi-articolo-' +lang +'.md', 'capitolo00/14-DiventareProgrammatoriOggi-articolo-pdf.png'),
+            ('capitolo01/01-ProgrammatoriA40Anni-articolo-' +lang +'.md', 'capitolo01/01-ProgrammatoriA40Anni-articolo-pdf.png'),
+            ('capitolo02/02-FinireIPropriTask-articolo-' +lang +'.md', 'capitolo02/02-FinireIPropriTask-articolo-pdf.png'),
+            ('capitolo03/12-AmmettereDiNonSapere-articolo-' +lang +'.md', 'capitolo03/12-AmmettereDiNonSapere-articolo-pdf.png'),
 #            ('capitolo04/57-Comunicazione Efficace in Team Tecnici.md', 'capitolo04/.png'),
 
             # Eccellenza Tecnica
             ('paragrafi/02-eccellenzatecnica-' +lang +'.md', ''),
-            ('capitolo05/04-CondizioneNelCodice-articolo-' +lang +'.md', 'capitolo05/04-CondizioneNelCodice-articolo.png'),
-            ('capitolo06/06-EsplorareNuoviFramework-articolo-' +lang +'.md', 'capitolo06/06-EsplorareNuoviFramework-articolo.png'),
-            ('capitolo07/03-IlMitodelFullStackDeveloper-articolo-' +lang +'.md', 'capitolo07/03-IlMitodelFullStackDeveloper-articolo.png'),
-            ('capitolo08/11-CodeReview-articolo-' +lang +'.md', 'capitolo08/11-CodeReview-articolo.png'),
+            ('capitolo05/04-CondizioneNelCodice-articolo-' +lang +'.md', 'capitolo05/04-CondizioneNelCodice-articolo-pdf.png'),
+            ('capitolo06/06-EsplorareNuoviFramework-articolo-' +lang +'.md', 'capitolo06/06-EsplorareNuoviFramework-articolo-pdf.png'),
+            ('capitolo07/03-IlMitodelFullStackDeveloper-articolo-' +lang +'.md', 'capitolo07/03-IlMitodelFullStackDeveloper-articolo-pdf.png'),
+            ('capitolo08/11-CodeReview-articolo-' +lang +'.md', 'capitolo08/11-CodeReview-articolo-pdf.png'),
 
             # Dimensione Professionale
             ('paragrafi/03-dimensioneprofessionale-' +lang +'.md', ''),
-            ('capitolo09/05-CelodurismoDeiProgrammatori-articolo-' +lang +'.md', 'capitolo09/05-CelodurismoDeiProgrammatori-articolo.png'),
-            ('capitolo10/07-ProgrammatoriMercenari-articolo-' +lang +'.md', 'capitolo10/07-ProgrammatoriMercenari-articolo.png'),
-            ('capitolo11/09-LaRALMotivaAlCambiamento-articolo-' +lang +'.md', 'capitolo11/09-LaRALMotivaAlCambiamento-articolo.png'),
-            ('capitolo12/10-ChiPerdeUnProgrammatorePerdeUnTesoro-articolo-' +lang +'.md', 'capitolo12/10-ChiPerdeUnProgrammatorePerdeUnTesoro-articolo.png'),
+            ('capitolo09/05-CelodurismoDeiProgrammatori-articolo-' +lang +'.md', 'capitolo09/05-CelodurismoDeiProgrammatori-articolo-pdf.png'),
+            ('capitolo10/07-ProgrammatoriMercenari-articolo-' +lang +'.md', 'capitolo10/07-ProgrammatoriMercenari-articolo-pdf.png'),
+            ('capitolo11/09-LaRALMotivaAlCambiamento-articolo-' +lang +'.md', 'capitolo11/09-LaRALMotivaAlCambiamento-articolo-pdf.png'),
+            ('capitolo12/10-ChiPerdeUnProgrammatorePerdeUnTesoro-articolo-' +lang +'.md', 'capitolo12/10-ChiPerdeUnProgrammatorePerdeUnTesoro-articolo-pdf.png'),
 
             # Dimensioni Personali e Sistemiche
 #            ('' +lang +'/04-dimensioni personali e sistemiche.md', ''),
-            ('capitolo13/13-ProgrammatoreAnelloDebole-' +lang +'.md', 'capitolo13/13-ProgrammatoreAnelloDebole.png'),
+            ('capitolo13/13-ProgrammatoreAnelloDebole-' +lang +'.md', 'capitolo13/13-ProgrammatoreAnelloDebole-pdf.png'),
 #            ('capitolo13/12-Gestione-del-Burnout-e-Salute-Mentale.md', 'capitolo13/.jpg'),
 #            ('capitolo14/58-Etica e Responsabilità nella Programmazione.md', 'capitolo14/.jpg'),
-            ('capitolo15/15-IlCimiteroDeiGeni-articolo-' +lang +'.md', 'capitolo15/15-IlCimiteroDeiGeni-articolo.png'),
+            ('capitolo15/15-IlCimiteroDeiGeni-articolo-' +lang +'.md', 'capitolo15/15-IlCimiteroDeiGeni-articolo-pdf.png'),
 
             ('paragrafi/00-biografia-' +lang +'.md', '')
         ]
